@@ -5,8 +5,8 @@ export const ReferralButtonsWrapper = styled.div`
   flex-wrap: wrap;
 
   button {
-    margin-bottom: 15px;
-    margin-right: 15px;
+    margin-bottom: 20px;
+    margin-right: 20px;
   }
 `;
 
@@ -16,8 +16,8 @@ export const ReferralTextInput = styled.input`
   font-size: 16px;
   background-color: var(--primary);
   color: var(--secondary);
-  border: 1px solid white;
-  border-radius: 10px;
+  border: 1px solid red;
+  border-radius: 20px;
   width: 100%;
 
   &:hover {
